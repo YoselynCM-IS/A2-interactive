@@ -1065,11 +1065,11 @@ main {
 /*========================================================
                      FOOTER  Styles
 =========================================================*/
-footer {
+/* footer {
     background: #62b22b;
     padding-top: 12px;
     padding-bottom: 12px;
-}
+} */
 
 footer .brand {
     margin-top: 5px;
